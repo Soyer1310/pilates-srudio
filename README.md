@@ -1,1 +1,1 @@
-# pilates-srudio
+# pilates-studio
